@@ -32,7 +32,7 @@ A simple Python application for generating secure, random passwords with customi
    ```bash
    myenv\Scripts\activate
    
-   For Mac/Linux:
+For Mac/Linux:
    ```bash
    source myenv/bin/activate
 

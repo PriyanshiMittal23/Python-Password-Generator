@@ -28,11 +28,11 @@ A simple Python application for generating secure, random passwords with customi
    python -m venv myenv
 
 3. **Activate the Virtual Environment**:
-     For Windows:
+   For Windows:
        ```bash
        myenv\Scripts\activate
   
-     For Mac/Linux:
+   For Mac/Linux:
        ```bash
        source myenv/bin/activate
 

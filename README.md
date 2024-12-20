@@ -29,12 +29,12 @@ A simple Python application for generating secure, random passwords with customi
 
 3. **Activate the Virtual Environment**:
    For Windows:
-   ```bash
-   myenv\Scripts\activate
+     ```bash
+     myenv\Scripts\activate
    
-For Mac/Linux:
-   ```bash
-   source myenv/bin/activate
+  For Mac/Linux:
+     ```bash
+     source myenv/bin/activate
 
 4. **Install Dependencies**:
    The project doesn't require external dependencies apart from tkinter, which should already be included with Python. If you want to install additional libraries or     dependencies, you can create a requirements.txt file.

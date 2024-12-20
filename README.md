@@ -29,11 +29,9 @@ A simple Python application for generating secure, random passwords with customi
 
 3. **Activate the Virtual Environment**:
    For Windows:
-       ```bash
        myenv\Scripts\activate
   
    For Mac/Linux:
-       ```bash
        source myenv/bin/activate
 
 4. **Install Dependencies**:

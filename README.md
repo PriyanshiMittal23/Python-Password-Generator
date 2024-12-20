@@ -31,8 +31,8 @@ A simple Python application for generating secure, random passwords with customi
    For Windows:
      ```bash
      myenv\Scripts\activate
-   
-  For Mac/Linux:
+
+   For Mac/Linux:
      ```bash
      source myenv/bin/activate
 
